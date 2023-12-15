@@ -30,5 +30,5 @@ User needs were interpreted by addressing the client's explicit requirements for
 # Approach to Software Design and Future Strategies:
 The approach involved systematic consideration of requirements, constraints, and object-oriented principles. Future strategies would include a more detailed analysis of trade-offs in the evaluation section and incorporating feedback loops during the design process for iterative improvements.
 
-- **/In summary, the design documentation effectively captured the client's needs, proposed a robust software solution, and showcased an object-oriented approach. Continuous refinement and attention to user needs remain integral for successful software development.
+- In summary, the design documentation effectively captured the client's needs, proposed a robust software solution, and showcased an object-oriented approach. Continuous refinement and attention to user needs remain integral for successful software development.
 
